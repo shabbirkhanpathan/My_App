@@ -11,7 +11,7 @@ export const RestOfYourApp = () => {
 
   return (
     <TouchableOpacity onPress={handle} style={{marginTop: 100}}>
-      <Text>Hey</Text>
+      <Text>Hello This is map</Text>
     </TouchableOpacity>
   );
 };
