@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.71.2",
+    "react-native-maps": "^1.4.0",
     "react-native-toast-notifications": "^3.3.1"
   },
   "devDependencies": {
